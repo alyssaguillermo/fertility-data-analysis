@@ -18,7 +18,7 @@ columns = [
 
 # read txt file 
 data = pd.read_csv(
-    '/Users/alyssaguillermo/Downloads/python projects/fertility/fertility_Diagnosis.txt', 
+    '/Users/alyssaguillermo/Downloads/python projects/fertility/fertility-data-analysis/fertility_Diagnosis.txt', 
     names=columns, 
     header=0
 )
@@ -62,10 +62,10 @@ data['Alcohol Consumption Frequency'] = data['Alcohol Consumption Frequency'].ro
 print(data)
 
 # save as csv file 
-data.to_csv('/Users/alyssaguillermo/Downloads/python projects/fertility/fertility_Diagnosis_updated.csv', index=False)
+data.to_csv('/Users/alyssaguillermo/Downloads/python projects/fertility/fertility-data-analysis/fertility_Diagnosis_updated.csv', index=False)
 
 # read csv file
-new_data = pd.read_csv('/Users/alyssaguillermo/Downloads/python projects/fertility/fertility_Diagnosis_updated.csv')
+new_data = pd.read_csv('/Users/alyssaguillermo/Downloads/python projects/fertility/fertility-data-analysis/fertility_Diagnosis_updated.csv')
 
 # get unique alcohol categories
 alcohol_categories = new_data['Alcohol Consumption Frequency'].unique()
@@ -83,7 +83,7 @@ custom_order = [
     'Several times a day'
 ]
 
-# keepcategories that actually exist in the data, in custom order
+# keep categories that actually exist in data, in custom order
 ordered_categories = [cat for cat in custom_order if cat in alcohol_categories]
 
 # count occurrences in custom order
@@ -92,12 +92,8 @@ normal_counts = [np.sum((alcohol_array == cat) & (diagnosis_array == 'Normal'))
 altered_counts = [np.sum((alcohol_array == cat) & (diagnosis_array == 'Altered')) 
                   for cat in ordered_categories]
 
-# count occurances for each diagnosis within each alcohol category
-normal_counts = np.array([np.sum((alcohol_array == category) & (diagnosis_array == 'Normal')) for category in alcohol_categories])
-altered_counts = np.array([np.sum((alcohol_array == category) & (diagnosis_array == 'Altered')) for category in alcohol_categories])
-
-# set up bar positions
-x = np.arange(len(alcohol_categories))
+# set up bar positions based on ordered categories
+x = np.arange(len(ordered_categories))
 bar_width = 0.35
 
 # plot bars
@@ -109,7 +105,7 @@ plt.bar(x + bar_width/2, altered_counts, width=bar_width, label='Altered', color
 plt.title('Alcohol Consumption by Diagnosis')
 plt.xlabel('Alcohol Consumption Frequency')
 plt.ylabel('Count')
-plt.xticks(x, alcohol_categories, rotation=30)
+plt.xticks(x, ordered_categories, rotation=30)  # ✅ now matches custom order
 plt.legend()
 plt.tight_layout()
 
