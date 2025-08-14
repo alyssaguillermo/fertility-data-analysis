@@ -1,4 +1,4 @@
-# Alcohol Consumption by Diagnosis Bar Chart
+# Alcohol Consumption by Diagnosis Bar Chart (Python)
 
 I used a dataset from the UC Irvine Machine Learning Repository called Fertility and converted the numerical values to their corresponding names. Then, I made a bar chart that shows the Alcohol Consumption by Diagnosis, which has 5 different categories for how often the men who were tested consumed alcohol.
 
