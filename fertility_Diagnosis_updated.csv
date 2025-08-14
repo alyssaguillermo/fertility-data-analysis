@@ -1,0 +1,100 @@
+Season,Age,Childish Disease(s)?,Accident/Serious Trauma?,Surgical Intervention?,High Fevers in Last Year?,Alcohol Consumption Frequency,Smoking Habit,Number of Hours Spent Sitting a Day,Diagnosis
+Spring,35,No,Yes,No,> 3 months ago,Once a week,Daily,5,Altered
+Spring,27,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,8,Normal
+Spring,32,Yes,No,No,> 3 months ago,Hardly ever/Never,Never,6,Normal
+Spring,30,No,No,Yes,> 3 months ago,Once a week,Never,8,Altered
+Spring,30,No,Yes,No,> 3 months ago,Once a week,Occasionally,8,Normal
+Spring,30,Yes,Yes,Yes,< 3 months ago,Once a week,Never,7,Normal
+Spring,36,No,No,No,> 3 months ago,Several times a week,Never,6,Normal
+Fall,30,Yes,Yes,No,> 3 months ago,Once a week,Never,4,Normal
+Fall,29,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,4,Normal
+Fall,30,No,No,Yes,< 3 months ago,Once a week,Occasionally,5,Normal
+Fall,32,No,No,No,> 3 months ago,Several times a week,Occasionally,2,Normal
+Fall,32,No,No,No,> 3 months ago,Once a week,Daily,4,Normal
+Fall,33,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,6,Normal
+Fall,35,No,No,No,> 3 months ago,Several times a day,Never,4,Normal
+Fall,33,No,No,Yes,> 3 months ago,Hardly ever/Never,Daily,8,Normal
+Fall,30,No,Yes,No,> 3 months ago,Hardly ever/Never,Never,6,Normal
+Fall,30,No,Yes,No,> 3 months ago,Once a week,Never,4,Altered
+Fall,32,No,No,No,> 3 months ago,Hardly ever/Never,Daily,4,Normal
+Fall,30,No,Yes,Yes,> 3 months ago,Once a week,Daily,6,Altered
+Fall,30,Yes,Yes,No,> 3 months ago,Once a week,Never,4,Normal
+Fall,32,No,Yes,Yes,> 3 months ago,Several times a week,Occasionally,4,Normal
+Fall,30,No,No,Yes,> 3 months ago,Once a week,Never,4,Normal
+Fall,30,No,Yes,No,< 3 months ago,Hardly ever/Never,Never,7,Altered
+Fall,28,No,Yes,No,> 3 months ago,Hardly ever/Never,Never,10,Normal
+Fall,30,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,4,Normal
+Fall,30,No,Yes,No,> 3 months ago,Several times a week,Never,6,Altered
+Fall,32,No,No,Yes,No,Several times a week,Never,6,Altered
+Fall,28,Yes,Yes,No,> 3 months ago,Hardly ever/Never,Never,3,Normal
+Fall,30,Yes,Yes,No,> 3 months ago,Several times a week,Occasionally,8,Altered
+Fall,29,No,Yes,No,> 3 months ago,Hardly ever/Never,Never,10,Normal
+Fall,28,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,7,Normal
+Fall,30,Yes,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,10,Normal
+Fall,28,No,No,No,> 3 months ago,Once a week,Occasionally,7,Normal
+Fall,28,No,No,No,> 3 months ago,Hardly ever/Never,Never,10,Normal
+Winter,32,No,No,Yes,No,Several times a week,Never,6,Normal
+Winter,32,No,Yes,No,> 3 months ago,Hardly ever/Never,Never,4,Normal
+Winter,28,No,Yes,No,> 3 months ago,Hardly ever/Never,Never,10,Normal
+Winter,30,Yes,Yes,No,> 3 months ago,Several times a week,Occasionally,8,Altered
+Winter,30,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,5,Normal
+Winter,28,No,No,No,> 3 months ago,Once a week,Daily,8,Normal
+Winter,28,No,No,Yes,> 3 months ago,Once a week,Daily,8,Normal
+Winter,28,No,Yes,No,< 3 months ago,Once a week,Daily,8,Normal
+Winter,28,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,7,Normal
+Winter,28,No,No,Yes,No,Hardly ever/Never,Occasionally,5,Normal
+Winter,28,No,Yes,Yes,No,Hardly ever/Never,Occasionally,7,Normal
+Spring,28,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,10,Normal
+Spring,31,No,No,Yes,> 3 months ago,Several times a week,Daily,3,Normal
+Spring,30,No,No,No,> 3 months ago,Once a week,Never,5,Normal
+Spring,32,No,No,No,> 3 months ago,Several times a week,Never,3,Normal
+Spring,30,No,Yes,No,> 3 months ago,Once a week,Never,3,Normal
+Spring,28,No,No,Yes,No,Hardly ever/Never,Never,12,Normal
+Spring,28,No,No,Yes,> 3 months ago,Once a week,Occasionally,8,Normal
+Spring,28,No,No,No,< 3 months ago,Once a week,Occasionally,3,Normal
+Spring,29,No,Yes,No,> 3 months ago,Hardly ever/Never,Never,10,Normal
+Spring,28,No,Yes,No,> 3 months ago,Once a week,Daily,3,Normal
+Spring,28,No,No,Yes,> 3 months ago,Once a week,Occasionally,12,Normal
+Spring,30,No,No,No,< 3 months ago,Hardly ever/Never,Never,12,Normal
+Spring,28,No,No,Yes,> 3 months ago,Every day,Daily,10,Normal
+Fall,28,Yes,Yes,Yes,No,Once a week,Daily,7,Normal
+Fall,28,Yes,Yes,Yes,No,Once a week,Occasionally,16,Normal
+Winter,30,No,Yes,Yes,No,Hardly ever/Never,Daily,4,Normal
+Winter,29,No,No,No,> 3 months ago,Several times a week,Never,6,Normal
+Winter,28,No,Yes,Yes,No,Hardly ever/Never,Never,8,Normal
+Winter,28,No,Yes,Yes,No,Once a week,Never,5,Normal
+Spring,28,Yes,Yes,No,> 3 months ago,Hardly ever/Never,Never,9,Normal
+Spring,27,No,No,Yes,< 3 months ago,Once a week,Occasionally,14,Normal
+Spring,27,No,Yes,Yes,No,Hardly ever/Never,Never,8,Normal
+Spring,27,No,Yes,Yes,No,Once a week,Occasionally,5,Normal
+Spring,27,No,Yes,No,< 3 months ago,Once a week,Never,8,Normal
+Spring,27,No,No,Yes,< 3 months ago,Once a week,Occasionally,14,Altered
+Summer,30,No,Yes,Yes,No,Hardly ever/Never,Never,5,Normal
+Fall,28,No,Yes,Yes,No,Several times a week,Occasionally,8,Normal
+Winter,27,No,Yes,Yes,No,Once a week,Never,7,Normal
+Winter,28,No,Yes,Yes,No,Once a week,Never,10,Normal
+Winter,32,No,Yes,No,No,Hardly ever/Never,Daily,4,Normal
+Winter,32,No,Yes,No,No,Several times a week,Occasionally,9,Normal
+Winter,31,No,No,No,No,Once a week,Never,3,Normal
+Winter,28,No,No,Yes,No,Once a week,Never,6,Normal
+Winter,36,No,Yes,No,No,Several times a week,Occasionally,4,Normal
+Spring,35,No,No,Yes,No,Hardly ever/Never,Never,10,Normal
+Winter,33,No,No,No,No,Once a week,Occasionally,3,Normal
+Spring,35,No,Yes,Yes,No,Several times a week,Never,3,Normal
+Spring,33,No,No,No,No,Hardly ever/Never,Never,4,Normal
+Spring,32,No,Yes,Yes,No,Hardly ever/Never,Daily,1,Altered
+Spring,34,No,No,Yes,> 3 months ago,Several times a week,Daily,5,Normal
+Spring,32,No,No,No,> 3 months ago,Several times a week,Daily,4,Normal
+Spring,32,No,No,No,No,Once a week,Daily,4,Normal
+Spring,33,No,No,No,> 3 months ago,Hardly ever/Never,Never,5,Normal
+Spring,33,No,No,No,> 3 months ago,Hardly ever/Never,Daily,6,Normal
+Spring,33,No,No,No,No,Once a week,Never,6,Normal
+Summer,32,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Daily,1,Normal
+Summer,32,No,No,Yes,> 3 months ago,Once a week,Never,6,Normal
+Summer,32,No,Yes,No,> 3 months ago,Once a week,Never,7,Altered
+Fall,28,No,Yes,Yes,> 3 months ago,Several times a week,Daily,8,Normal
+Winter,30,No,Yes,Yes,> 3 months ago,Hardly ever/Never,Never,8,Normal
+Winter,29,No,Yes,Yes,> 3 months ago,Once a week,Occasionally,8,Normal
+Winter,30,No,No,No,> 3 months ago,Hardly ever/Never,Never,5,Normal
+Winter,30,No,Yes,No,> 3 months ago,Hardly ever/Never,Occasionally,3,Normal
+Winter,30,Yes,No,No,> 3 months ago,Several times a week,Never,3,Normal
