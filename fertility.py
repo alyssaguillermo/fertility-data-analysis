@@ -105,7 +105,7 @@ plt.bar(x + bar_width/2, altered_counts, width=bar_width, label='Altered', color
 plt.title('Alcohol Consumption by Diagnosis')
 plt.xlabel('Alcohol Consumption Frequency')
 plt.ylabel('Count')
-plt.xticks(x, ordered_categories, rotation=30)  # ✅ now matches custom order
+plt.xticks(x, ordered_categories, rotation=30)
 plt.legend()
 plt.tight_layout()
 
